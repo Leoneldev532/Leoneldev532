@@ -1,34 +1,31 @@
-### Hi there 👋
 
-
- ### Leonel Yimga 
-
- # Hi 🖐🖐 I'am leonel you can also call me leo . I'am a front-End developper and instructor . I really enjoy learning 
+ ### 🖐
+ #  I'am leonel . I'am a front-End developper and instructor . I really enjoy learning 
  
- # technologies and framework like (React,Next js etc...) in the goal to increase my realisation . I also enjoy wireframing, ui, ux, and design in general.
+  technologies and framework like (React,Next js etc...) in the goal to increase my realisation . I also enjoy wireframing, ui, ux, and design in general.
 
-## skills and Experiences 
+ skills and Experiences 
  
 # creation of interfacess 
-# ⁜ React js  ⁜ Typescript   ⁜ Next  js  ⁜ React native  ⁜ tailwind css 
+ ⁜ React js  ⁜ Typescript   ⁜ Next  js  ⁜ React native  ⁜ tailwind css 
 
 # state Management  
-# ⁜ Redux, ⁜ Recoil, ⁜ React Query 
+ ⁜ Redux, ⁜ Recoil, ⁜ React Query 
 
 <!-- # Animation : GSAP LENIS  -->
 
 # Schema validation 
-# ⁜ Zod ,  ⁜ Validator
+ ⁜ Zod ,  ⁜ Validator
 
 
-## initiatives 
+# initiatives 
 
-# Fastershare : A Web application for sharing files between many computer brief ...  
-# My channel youtube :
-# My pages Facebook :
-# 3 Training I have organize on Whatsapp 2020 2021 2022 
+ Fastershare : A Web application for sharing files between many computer brief ...  
+ My channel youtube :
+ My pages Facebook :
+3 Training I have organize on Whatsapp 2020 2021 2022 
 
-## I'm free for a freelance or job project and no lucrative project
+# I'm free for a freelance or job project and no lucrative project
 # You can buy me a coffee here  👉👉 : 
 
 
