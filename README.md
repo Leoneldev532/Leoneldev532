@@ -9,7 +9,7 @@
 
  # skills and Experiences 
  
-∎  creation of interfaces
+∎  creation of interfaces         
  ⁜ React js  ⁜ Typescript   ⁜ Next  js  ⁜ React native  ⁜ tailwind css 
 
 ∎  state Management 
@@ -25,10 +25,9 @@
 ∎ initiatives 
 
 > Fastershare : A Web application for sharing files between many computers brief  : https://fastershare.netlify.app/...  
-> My channel youtube : https://www.youtube.com/channel/UCEPuV8hLSKWPEA7eU-h3Trw
->  My pages Facebook : https://www.facebook.com/Dorvaldrien
- 
-3 Training I have  organize on Whatsapp 2020 2021 2022 
+> My channel youtube : https://www.youtube.com/channel/UCEPuV8hLSKWPEA7eU-h3Trw                                                                    
+> My pages Facebook : https://www.facebook.com/Dorvaldrien                          
+> 3 Training I have  organize on Whatsapp 2020 2021 2022 
 
 > [!NOTE]
 >  I'm free for a freelance or job project and no lucrative projects
