@@ -6,7 +6,7 @@
  #  I'am leonel  ###🦸‍♂️ . I'am a front-End developper and instructor .
  I really enjoy learning technologies and framework like (React,Next js etc...) in the goal to increase my realisation . I also enjoy wireframing, ui, ux, and design in general.
 
- skills and Experiences 
+ # skills and Experiences 
  
 ∎ creation of interfacess 
  ⁜ React js  ⁜ Typescript   ⁜ Next  js  ⁜ React native  ⁜ tailwind css 
