@@ -2,7 +2,7 @@
 <!-- ![Description de l'image](https://leonelportfolio.netlify.app/image/89.png) -->
 
 
- ### 🖐
+ # 🖐
  #  I'am leonel  🦸‍♂️ . I'am a front-End developper and instructor .
  I really enjoy learning technologies and framework like (React,Next js etc...) in the goal to increase my realisation . I also enjoy wireframing, ui, ux, and design in general.
 
@@ -25,12 +25,13 @@
 
 > Fastershare : A Web application for sharing files between many computers brief  : https://fastershare.netlify.app/...  
 > My channel youtube : https://www.youtube.com/channel/UCEPuV8hLSKWPEA7eU-h3Trw
+
 >  My pages Facebook : https://www.facebook.com/Dorvaldrien
  
 3 Training I have  organize on Whatsapp 2020 2021 2022 
 
 > [!NOTE]
-#I'm free for a freelance or job project and no lucrative projects
+# I'm free for a freelance or job project and no lucrative projects
 
 You can buy me a coffee here  👉👉 : https://www.buymeacoffee.com/leonelyimga
 
