@@ -22,11 +22,12 @@
  Fastershare : A Web application for sharing files between many computers brief  : https://fastershare.netlify.app/...  
  My channel youtube : https://www.youtube.com/channel/UCEPuV8hLSKWPEA7eU-h3Trw
  My pages Facebook : https://www.facebook.com/Dorvaldrien
+ 
 3 Training I have organize on Whatsapp 2020 2021 2022 
 
 # I'm free for a freelance or job project and no lucrative project
 
-[# You can buy me a coffee here  👉👉 : ](https://www.buymeacoffee.com/leonelyimga)
+[# You can buy me a coffee here  👉👉 : https://www.buymeacoffee.com/leonelyimga
 
 
 
