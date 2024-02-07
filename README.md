@@ -1,30 +1,32 @@
 
  ### 🖐
- #  I'am leonel . I'am a front-End developper and instructor . I really enjoy learning technologies and framework like (React,Next js etc...) in the goal to increase my realisation . I also enjoy wireframing, ui, ux, and design in general.
-<mark>Texte en surbrillance</mark>
+ #  I'am leonel . I'am a front-End developper and instructor .
+ I really enjoy learning technologies and framework like (React,Next js etc...) in the goal to increase my realisation . I also enjoy wireframing, ui, ux, and design in general.
+
  skills and Experiences 
  
-# creation of interfacess 
+∎ creation of interfacess 
  ⁜ React js  ⁜ Typescript   ⁜ Next  js  ⁜ React native  ⁜ tailwind css 
 
-# state Management  
+∎ state Management  
  ⁜ Redux, ⁜ Recoil, ⁜ React Query 
 
 <!-- # Animation : GSAP LENIS  -->
 
-# Schema validation 
+∎ Schema validation 
  ⁜ Zod ,  ⁜ Validator
 
 
-# initiatives 
+∎ initiatives 
 
- Fastershare : A Web application for sharing files between many computer brief ...  
- My channel youtube :
- My pages Facebook :
+ Fastershare : A Web application for sharing files between many computers brief  : https://fastershare.netlify.app/...  
+ My channel youtube : https://www.youtube.com/channel/UCEPuV8hLSKWPEA7eU-h3Trw
+ My pages Facebook : https://www.facebook.com/Dorvaldrien
 3 Training I have organize on Whatsapp 2020 2021 2022 
 
 # I'm free for a freelance or job project and no lucrative project
-# You can buy me a coffee here  👉👉 : 
+
+[# You can buy me a coffee here  👉👉 : ](https://www.buymeacoffee.com/leonelyimga)
 
 
 
