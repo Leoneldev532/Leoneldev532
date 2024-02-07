@@ -1,6 +1,6 @@
 
  ### 🖐
- #  I'am leonel . I'am a front-End developper and instructor .
+ #  I'am leonel  ###🦸‍♂️ . I'am a front-End developper and instructor .
  I really enjoy learning technologies and framework like (React,Next js etc...) in the goal to increase my realisation . I also enjoy wireframing, ui, ux, and design in general.
 
  skills and Experiences 
@@ -25,7 +25,7 @@
  
 3 Training I have organize on Whatsapp 2020 2021 2022 
 
-# I'm free for a freelance or job project and no lucrative project
+# I'm free for a freelance or job project and no lucrative projects
 
 [# You can buy me a coffee here  👉👉 : https://www.buymeacoffee.com/leonelyimga
 
