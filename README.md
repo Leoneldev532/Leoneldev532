@@ -1,9 +1,9 @@
 
-![Description de l'image](https://octodex.github.com/images/mona-the-rivetertocat.png)
+![Description de l'image](https://leonelportfolio.netlify.app/image/89.png))
 
 
  ### 🖐
- #  I'am leonel  ###🦸‍♂️ . I'am a front-End developper and instructor .
+ #  I'am leonel  🦸‍♂️ . I'am a front-End developper and instructor .
  I really enjoy learning technologies and framework like (React,Next js etc...) in the goal to increase my realisation . I also enjoy wireframing, ui, ux, and design in general.
 
  # skills and Experiences 
