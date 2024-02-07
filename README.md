@@ -18,7 +18,7 @@
 
 <!-- # Animation : GSAP LENIS  -->
 
-∎  Schema validation 
+∎  Schema validation             
  ⁜ Zod ,  ⁜ Validator
 
 
@@ -34,7 +34,7 @@
 
 You can buy me a coffee here  👉👉 : https://www.buymeacoffee.com/leonelyimga
 
-
+see All of My free projects here 👇👇
 
 <!--
 **Leoneldev532/Leoneldev532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
