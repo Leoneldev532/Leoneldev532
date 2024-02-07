@@ -6,7 +6,7 @@
  
  #  I'am leonel  🦸‍♂️ . I'am a front-End developper and instructor .
  I really enjoy learning technologies and framework like (React,Next js etc...) in the goal to increase my realisation . I also enjoy wireframing, ui, ux, and design in general.
-
+`&#8212;` is the decimal-encoded equivalent of `&mdash;`.
  # skills and Experiences 
  
 ∎  creation of interfaces         
